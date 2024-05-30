@@ -4,18 +4,13 @@ This is a simple calculator application implemented in Java using Swing. It prov
 
 # Table of Contents
 
-1. [Calculator Application](#calculator-application)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Error Handling](#error-handling)
-6. [Mouse Listener](#mouse-listener)
-7. [Custom Border Class](#custom-border-class)
-8. [Screenshots](#screenshots)
-
-## Calculator Application
-
-This is a simple calculator application implemented in Java using Swing. It provides basic arithmetic operations along with additional functionalities like exponentiation and square root.
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Error Handling](#error-handling)
+5. [Mouse Listener](#mouse-listener)
+6. [Custom Border Class](#custom-border-class)
+7. [Screenshots](#screenshots)
 
 ## Features
 
