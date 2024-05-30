@@ -42,33 +42,6 @@ To run this application, ensure you have Java installed on your system.
 3. Use the operator buttons to perform arithmetic operations.
 4. Additional functionalities like exponentiation and square root are available.
 5. The calculation history is displayed in the text fields.
-
-## Features
-
-- Addition (+), Subtraction (-), Multiplication (x), Division (÷)
-- Exponentiation (x^n), Square Root (√x)
-- Clearing input and calculation history
-- Input validation for numerical operations
-- Error handling for graceful handling of invalid input or operations
-- Responsive UI with intuitive button layout
-- Button hover effect for enhanced user experience
-
-
-## Installation
-
-To run this application, ensure you have Java installed on your system.
-
-1. Clone this repository to your local machine.
-2. Compile the source files using any Java compiler.
-3. Run the `CalculatorApp` class to start the application.
-
-## Usage
-
-1. Launch the application.
-2. Use the number buttons to input numeric values.
-3. Use the operator buttons to perform arithmetic operations.
-4. Additional functionalities like exponentiation and square root are available.
-5. The calculation history is displayed in the text fields.
 6. Click the "=" button to get the result of the expression.
 7. Use the "C" button to clear the input and calculation history.
 
