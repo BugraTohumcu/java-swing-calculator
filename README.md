@@ -1,47 +1,18 @@
-# Calculator Application
+## Getting Started
 
-This is a simple calculator application implemented in Java using Swing. It provides basic arithmetic operations along with additional functionalities like exponentiation and square root.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Features
+## Folder Structure
 
-- Addition (+), Subtraction (-), Multiplication (x), Division (÷)
-- Exponentiation (x^n), Square Root (√x)
-- Clearing input and calculation history
-- Input validation for numerical operations
-- Error handling for graceful handling of invalid input or operations
-- Responsive UI with intuitive button layout
-- Button hover effect for enhanced user experience
+The workspace contains two folders by default, where:
 
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-## Installation
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-To run this application, ensure you have Java installed on your system.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-1. Clone this repository to your local machine.
-2. Compile the source files using any Java compiler.
-3. Run the `CalculatorApp` class to start the application.
+## Dependency Management
 
-## Usage
-
-1. Launch the application.
-2. Use the number buttons to input numeric values.
-3. Use the operator buttons to perform arithmetic operations.
-4. Additional functionalities like exponentiation and square root are available.
-5. The calculation history is displayed in the text fields.
-6. Click the "=" button to get the result of the expression.
-7. Use the "C" button to clear the input and calculation history.
-
-## Error Handling
-
-- The application handles input errors gracefully, providing a smooth user experience.
-- Input validation ensures that only numerical values and valid operations are accepted.
-- Error messages are displayed to guide the user in case of invalid input or operations.
-
-## Mouse Listener
-
-The `Calculator` class implements the `MouseListener` interface to handle mouse events for button clicks. It efficiently manages user interactions with the calculator buttons, processing input and performing calculations based on user actions.
-
-## Custom Border Class
-
-The `ButtonBorders` class defines a custom border for the calculator buttons, enhancing their appearance and providing visual feedback to users. It adds rounded corners to the buttons, creating a sleek and modern design.
-
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
